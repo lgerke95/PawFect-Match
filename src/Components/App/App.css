@@ -1,0 +1,29 @@
+/*#f8c8dc pink
+#c8a69c tan
+#a7c6a1 green
+#ff6f61 red
+#f3f8ff gray
+#1b1642 navy
+#53565a Dark gray
+font-family: 'Cal Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Cal+Sans&display=swap');
+
+html, body {
+ background-color: #fff;
+ font-family: 'Cal Sans', sans-serif;
+ margin: 0;
+ padding: 0;
+ overflow-x: hidden;
+}
+
+main {
+ background-color: #f3f8ff;
+ margin: auto;
+ margin: 0;
+ padding: 0;
+}

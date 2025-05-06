@@ -1,0 +1,17 @@
+.list-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 40px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+
+
+/*Queries*/
+@media screen and (max-width: 1024px) {
+  .list-container {
+    display: block;
+    padding: 0 40px;
+  }
+}
